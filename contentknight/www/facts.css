@@ -1,0 +1,43 @@
+body {
+	background-color: #98FB98;
+	font-weight: 500;
+	font-style: bold;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	width: 100%;
+}
+
+div.container {
+	width: 100%;
+	padding-left: 0%;
+	padding-right: 0%;
+}
+
+div.info {
+	margin-top: 5%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+div.topnav {
+	background-color: black;
+	overflow: hidden;
+	width: 100%;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	padding-left: 2%;
+}
+
+#myTopnav {
+	color: #98FB98;
+}
+
+.topnav a:hover {
+    background-color: black;
+    color: #FFB6C1;
+}
+
+a {
+	color: #98FB98;
+	padding-left: 20px;
+}
+
